@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Emna Ben Kadida !  
 
-📍 **Basée en France | Diplômée d’un Master IoT à UBFC**  
+📍 **Basée en France depuis 2022 | Diplômée d’un Master IoT à UBFC**  
 🔍 **A la recherche d’un poste en IoT, IA ou Data Science**  
 
 ## 🚀 À propos de moi  
