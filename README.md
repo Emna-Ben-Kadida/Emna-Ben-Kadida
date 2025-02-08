@@ -28,6 +28,7 @@ Passionnée par les technologies connectées et l’intelligence artificielle, j
 ## 📬 Me Contacter  
 📩 **Email** : emna.benkadida1@gmail.com  
 📍 **Localisation** : 82ter Avenue Louis Blanc, Saint-Maur-des-Fossés 
+
 💼 **GitHub** : [Emna-Ben-Kadida](https://github.com/Emna-Ben-Kadida)  
 💼 **LinkedIn** : https://www.linkedin.com/in/emna-ben-kadida-aa1b7a226/
 
