@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Emna Ben Kadida !  
 
 📍 **Basée en France depuis 2022 | Diplômée d’un Master IoT à UBFC**  
-🔍 **A la recherche d’un poste en IoT, IA ou Data Science**  
+🔍 **A la recherche d’un poste en IoT, Systèmes embarqués, IA ou Data Science**  
 
 ## 🚀 À propos de moi  
 Passionnée par les technologies connectées et l’intelligence artificielle, je conçois et optimise des solutions innovantes en IoT et Data Science. J’ai travaillé sur des projets allant du développement embarqué à l’analyse de données en passant par l’automatisation des capteurs et la cybersécurité IoT.  
